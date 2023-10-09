@@ -280,7 +280,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/me1-bg.jpg") center center no-repeat;
+  background: url("/assets/img/me1-bg.JPG") center center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -594,7 +594,7 @@ section {
   margin: 0 auto 25px auto;
   list-style: none;
   text-align: center;
-  background:#18A558;
+  background:#A3EBB1;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -614,7 +614,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color:#B1D8B7;
+  color:#ffffff;
 }
 
 .portfolio #portfolio-flters li:last-child {
